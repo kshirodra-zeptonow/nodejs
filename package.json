@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/kshirodra-zeptonow/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kshirodra-zeptonow/nodejs/issues"
+  },
+  "homepage": "https://github.com/kshirodra-zeptonow/nodejs#readme"
+}
